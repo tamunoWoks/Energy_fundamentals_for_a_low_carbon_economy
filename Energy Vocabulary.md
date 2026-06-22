@@ -105,4 +105,18 @@ Example: Canada's Critical Minerals Strategy lists 30 minerals to focus on for t
 
 Supply Risk: Many critical minerals have concentrated supply sources creating potential shortages.
 
+### Grid Capacity
+The maximum amount of electricity that the electrical grid can reliably supply to meet demand, including both base load and peak load requirements.
+
+Challenge: Grid capacity must handle peak demand periods, not just average demand.
+
+Expansion Need: Electrification will require massive grid capacity increases to handle new electric vehicles, heat pumps, etc.
+
+### Smart Grid
+Advanced grid technologies that provide flexibility on both supply and demand sides, enabling better integration of variable renewable energy sources.
+
+Function: Manages electricity flow, integrates renewables, and can communicate with customer devices.
+
+Need: Required for handling variable renewable energy and increasing electrification demands.
+
 
