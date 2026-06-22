@@ -49,3 +49,9 @@ Determining the emissions from any energy source is difficult and requires what 
 >   
 > An electric car doesn’t emit GHGs, but producing the car and its battery does.
 ---
+**Low-carbon energy is a relative term.** If we think about how much GHGs are emitted by using different fuel types to generate electricity, nuclear power is the lowest emitter. In increasing order, we then have wind, solar, hydropower and geothermal energy. Fossil fuels emit up to 100 times as much GHG’s as wind and solar with coal being worse than oil which is worse than natural gas.
+
+---
+> Clean energy, a commonly used term, is a misnomer.
+---
+**Since every energy source causes some pollution, there is no such thing as clean energy! Only less dirty. It is recommended, therefore, NOT to use this term!** It only gives people who have a lower level of energy literacy the false impression that some forms of energy are clean.
