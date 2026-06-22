@@ -12,8 +12,12 @@ Example: Both Canada and the US have enough total energy but still require impor
 
 Common Misconception: Total energy production equals energy independence - transportation and infrastructure matter too.
 
+### Energy Transition
+The desire and process to move away from fossil fuels toward clean (or alternative) energy sources. Also called "energy evolution" since humans will likely use fossil fuels for the foreseeable future.
 
+Example: Government mandate for all new vehicles to be electric by 2035.
 
+Alternative Term: Energy Evolution - acknowledges the gradual nature of change.
 
 
 
