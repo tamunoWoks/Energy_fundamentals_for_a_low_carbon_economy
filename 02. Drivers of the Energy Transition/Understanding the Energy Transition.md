@@ -60,3 +60,7 @@ Determining the emissions from any energy source is difficult and requires what 
 The term **‘green energy’** suffers from the same problem. It would be more appropriate to use the term ‘greener energy’, for example, when comparing wind to coal. Consider the term "clean coal." Coal will never be clean; however, new technologies have significantly reduced emissions from burning coal, so the term "cleaner coal" might work, but "less dirty" might be more appropriate.
 
 Again, it's best to avoid this term since many people have a low level of energy literacy.
+### RENEWABLE ENERGY
+The term **‘renewable energy’** is more complicated. In general, it includes energy sources that are derived from natural sources that are replenished at a higher rate than they are consumed.
+
+This might include wind, solar, hydroelectric (dams), geothermal, tidal power and biofuels. Some even consider nuclear power to be renewable. While the uranium supply currently used is finite, using the element thorium may change that since its supply is almost infinite.
