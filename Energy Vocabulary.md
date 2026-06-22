@@ -91,6 +91,18 @@ Solution: Electricity is "stepped-up" to high voltage for transmission to reduce
 
 Typical Range: Modern grids lose about 5-8% of electricity during transmission and distribution.
 
+### Decentralized Energy Systems (DER)
+Much smaller grid systems where small amounts of energy are generated close to a smaller number of end users. Also called Distributed Energy Resources.
 
+Example: Community solar installations with local battery storage vs. large central power plants.
+
+Advantage: Reduced transmission losses and increased local energy independence.
+
+### Critical Minerals
+Materials required for electrification including batteries, computer chips, wind turbines, solar panels, and grid upgrades. Includes common materials (copper, aluminum) and rare ones (lithium, cobalt).
+
+Example: Canada's Critical Minerals Strategy lists 30 minerals to focus on for the entire value chain from extraction to recycling.
+
+Supply Risk: Many critical minerals have concentrated supply sources creating potential shortages.
 
 
