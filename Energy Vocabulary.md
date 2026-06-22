@@ -28,3 +28,10 @@ Example: Natural gas from a well = primary; electricity generated from natural g
 
 Common Confusion: Electricity is always secondary energy, regardless of the primary source used to generate it.
 
+### Energy Intensity
+The relative amount of energy required to produce one unit of economic activity, usually measured as energy per unit of GDP or per product manufactured.
+
+Example: If a company uses more efficient machines, it reduces the energy intensity of manufacturing.
+
+Typical Range: Varies by industry - heavy manufacturing has higher energy intensity than services.
+
