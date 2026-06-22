@@ -19,74 +19,12 @@ Example: Government mandate for all new vehicles to be electric by 2035.
 
 Alternative Term: Energy Evolution - acknowledges the gradual nature of change.
 
+### Primary Energy vs. Secondary Energy
+Primary energy is energy found in nature before conversion (crude oil, natural gas, coal, uranium).  
 
+Secondary energy is energy converted from primary sources (electricity, gasoline, diesel fuel).
 
+Example: Natural gas from a well = primary; electricity generated from natural gas at a power plant = secondary.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Common Confusion: Electricity is always secondary energy, regardless of the primary source used to generate it.
 
