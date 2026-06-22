@@ -42,8 +42,10 @@ Determining the emissions from any energy source is difficult and requires what 
 4. And finally, the equipment may need to be disassembled and recycled or disposed of.
 
 ---
-> A fair assessment of the GHG emissions for any particular energy source must include emissions generated from all these activities.  
-> **Examples:**
-> A windmill doesn’t emit GHGs when generating electricity, but emissions occur at every other stage mentioned above.  
+> A fair assessment of the GHG emissions for any particular energy source must include emissions generated from all these activities.
+>   
+> **Examples:**  
+> A windmill doesn’t emit GHGs when generating electricity, but emissions occur at every other stage mentioned above.
+>   
 > An electric car doesn’t emit GHGs, but producing the car and its battery does.
 ---
