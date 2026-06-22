@@ -48,3 +48,10 @@ How much energy can be obtained from a given amount of a particular fuel. Higher
 Example Order (highest to lowest): Uranium → Hydrogen → Natural gas → Diesel → Heating oil → Coal → Wood.
 
 Practical Impact: Energy density affects storage, transportation, and handling requirements for different fuels.
+
+###  HVAC
+Heating, Ventilation and Air Conditioning systems. Collectively refers to systems that control temperature and air movement in buildings.
+
+Example: Home furnaces (heating only) vs. full HVAC systems in commercial buildings (heating, cooling, and air circulation).
+
+Energy Impact: HVAC accounts for about half of global final energy consumption.
