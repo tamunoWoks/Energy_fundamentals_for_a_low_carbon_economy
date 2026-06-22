@@ -35,3 +35,10 @@ Example: If a company uses more efficient machines, it reduces the energy intens
 
 Typical Range: Varies by industry - heavy manufacturing has higher energy intensity than services.
 
+### Energy Efficiency
+Using less energy to provide the same service or output. Focuses on the performance of equipment or systems in converting energy to useful work.
+
+Example: LED bulbs use a fraction of the energy of incandescent bulbs while lasting for years and producing less waste heat.
+
+Comparison: Energy Star refrigerators use less electricity to keep food cold than standard models.
+
