@@ -63,4 +63,17 @@ Conversion: 1 BTU = 1,055 Joules = 1.055 kilojoules (kJ).
 
 Practical Use: Furnaces and air conditioners are often rated in BTUs per hour (BTUH).
 
+### Transportation Fuels
+Fuels primarily derived from crude oil at refineries for different modes of transport: gasoline (cars), diesel (trucks), jet fuel (aviation), bunker fuel (ships).
+
+Example: Transport trucks use diesel rather than gasoline due to slightly higher energy density.
+
+Environmental Issue: Bunker fuel is very polluting but cheap, creating pressure for shipping industry modernization.
+
+### Electrification
+Converting systems that have traditionally used fossil fuels to electric systems. Applies to transportation, heating/cooling, industry, and electricity generation itself.
+
+Example: Electric vehicles replacing internal combustion engines, or heat pumps replacing natural gas furnaces.
+
+Challenge: Different applications have different feasibility - city delivery trucks easier than long-haul trucking.
 
