@@ -64,3 +64,12 @@ Again, it's best to avoid this term since many people have a low level of energy
 The term **‘renewable energy’** is more complicated. In general, it includes energy sources that are derived from natural sources that are replenished at a higher rate than they are consumed.
 
 This might include wind, solar, hydroelectric (dams), geothermal, tidal power and biofuels. Some even consider nuclear power to be renewable. While the uranium supply currently used is finite, using the element thorium may change that since its supply is almost infinite.
+
+---
+> **Examples:**   
+>
+> Consider hydroelectric power generated from dams. This is renewable energy, as long as it keeps raining! In the last few years, many major dams around the world have been unable to generate electricity due to a lack of rain and the resulting low reservoir levels. Other natural disasters can also affect the operation of dams. In Canada, the 2024 landslide on the Chilcotin River changed the flow path of the river and resulted in a dangerous ‘temporary’ dam.
+>
+> Also consider the mindset that “the sun will always shine, and the wind will always blow.” While this is true, changing weather patterns may result in changes to the resources available in a particular area, particularly with wind. Wind farms can not be moved, and changing wind patterns may reduce the amount of electricity that a particular farm can generate.
+---
+This is not to say that these energy sources are not an important part of the energy transition, just that we need to be aware of the risks as well as the benefits.
