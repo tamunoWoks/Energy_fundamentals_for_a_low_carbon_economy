@@ -55,3 +55,8 @@ Determining the emissions from any energy source is difficult and requires what 
 > Clean energy, a commonly used term, is a misnomer.
 ---
 **Since every energy source causes some pollution, there is no such thing as clean energy! Only less dirty. It is recommended, therefore, NOT to use this term!** It only gives people who have a lower level of energy literacy the false impression that some forms of energy are clean.
+
+### GREEN ENERGY
+The term **‘green energy’** suffers from the same problem. It would be more appropriate to use the term ‘greener energy’, for example, when comparing wind to coal. Consider the term "clean coal." Coal will never be clean; however, new technologies have significantly reduced emissions from burning coal, so the term "cleaner coal" might work, but "less dirty" might be more appropriate.
+
+Again, it's best to avoid this term since many people have a low level of energy literacy.
