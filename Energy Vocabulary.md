@@ -42,3 +42,9 @@ Example: LED bulbs use a fraction of the energy of incandescent bulbs while last
 
 Comparison: Energy Star refrigerators use less electricity to keep food cold than standard models.
 
+### Energy Density
+How much energy can be obtained from a given amount of a particular fuel. Higher energy density means more energy from less fuel.
+
+Example Order (highest to lowest): Uranium → Hydrogen → Natural gas → Diesel → Heating oil → Coal → Wood.
+
+Practical Impact: Energy density affects storage, transportation, and handling requirements for different fuels.
