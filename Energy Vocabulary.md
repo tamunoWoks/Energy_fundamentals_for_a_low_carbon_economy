@@ -77,3 +77,20 @@ Example: Electric vehicles replacing internal combustion engines, or heat pumps 
 
 Challenge: Different applications have different feasibility - city delivery trucks easier than long-haul trucking.
 
+### Base Load vs. Peak Load
+Base load = minimum electricity demand that occurs continuously. Peak load = highest demand periods, often during morning and evening "electricity rush hours."
+
+Example: Alberta has requested residents reduce usage when peak load approached grid capacity.
+
+Grid Impact: Grid capacity must be sufficient for peak load, not just base load, which affects infrastructure costs.
+
+### Line Loss
+The amount of electricity lost due to resistance in power lines during transmission from generation to end users.
+
+Solution: Electricity is "stepped-up" to high voltage for transmission to reduce line loss over long distances (up to 500km).
+
+Typical Range: Modern grids lose about 5-8% of electricity during transmission and distribution.
+
+
+
+
