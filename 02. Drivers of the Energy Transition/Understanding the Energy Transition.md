@@ -20,3 +20,30 @@ Low-carbon alternatives do not mean no-carbon alternatives. Indeed, every energy
 > Think about urban vs rural areas in Canada, or even Western Canada vs Eastern Canada. Zoom into Western Canada and you’ll see that British Columbia’s primary energy supply (hydropower) is much different than Alberta’s (natural gas).
 ---
 "The term "energy transition" might not perfectly capture the desired transformation of the global energy landscape, since it suggests fossil fuels will disappear entirely. I favour **“energy evolution”** instead—it better reflects how our energy systems need to adapt and develop (evolve) over time. However, we'll stick with "energy transition" since even fewer people would understand what we mean by "energy evolution"!" - Abid Rashid
+
+## Renewable vs. Clean vs. Green vs. Low-Carbon Energy
+Now let's explore what we're actually referring to when we discuss low-carbon alternatives.
+
+**Low-carbon energy refers to energy sources that offer substantial reductions in GHG emissions over traditional fossil fuels, including oil, natural gas, and coal.**
+
+The only consideration in this context is the effect that a particular energy source has on contributing to climate change.
+
+When we talk about energy, it helps to focus on one simple measure: how much greenhouse gas each source produces. Sure, every energy source affects people and the environment in different ways, but looking at emissions gives us a clear way to compare them.
+
+Coal is the biggest greenhouse gas producer, followed by Oil and then Natural Gas. Everything Else (Wind, solar, nuclear, and hydropower) can be called "low-carbon" in comparison. 
+
+--- 
+> **One exception:** Traditional biomass like wood, dung, and crop waste actually produce quite a bit of emissions too.
+---
+Determining the emissions from any energy source is difficult and requires what is called a **life-cycle assessment**. This means taking into account all emissions at different stages of the processes required to make the energy. It may include:
+1. Mining and processing of raw materials.
+2. There may be a factory where raw materials are turned into products. These products may have to be constructed and installed.
+3. There may be maintenance and repairs required.
+4. And finally, the equipment may need to be disassembled and recycled or disposed of.
+
+---
+> A fair assessment of the GHG emissions for any particular energy source must include emissions generated from all these activities.  
+> **Examples:**
+> A windmill doesn’t emit GHGs when generating electricity, but emissions occur at every other stage mentioned above.  
+> An electric car doesn’t emit GHGs, but producing the car and its battery does.
+---
