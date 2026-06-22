@@ -55,3 +55,12 @@ Heating, Ventilation and Air Conditioning systems. Collectively refers to system
 Example: Home furnaces (heating only) vs. full HVAC systems in commercial buildings (heating, cooling, and air circulation).
 
 Energy Impact: HVAC accounts for about half of global final energy consumption.
+
+### BTU
+A measure of energy used by appliances to heat or cool within an hour. Specifically, the energy required to raise or lower one pound of water by one degree Fahrenheit.
+
+Conversion: 1 BTU = 1,055 Joules = 1.055 kilojoules (kJ).
+
+Practical Use: Furnaces and air conditioners are often rated in BTUs per hour (BTUH).
+
+
