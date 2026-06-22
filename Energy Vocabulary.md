@@ -119,4 +119,17 @@ Function: Manages electricity flow, integrates renewables, and can communicate w
 
 Need: Required for handling variable renewable energy and increasing electrification demands.
 
+### Grid Capacity
+kW = rate of power/energy use at a moment in time. kWh = total amount of energy used over time. kW measures capacity, kWh measures consumption.
+
+Example: A 100-watt light bulb uses 0.1 kW of power. If on for 10 hours, it consumes 1 kWh of energy.
+
+Scale: 1000 kW = 1 Megawatt (MW); 1000 MW = 1 Gigawatt (GW); 1000 GW = 1 Terawatt (TW).
+
+### Grid Parity
+When the cost of renewable energy sources (like wind and solar) meets or beats the cost of electricity from traditional grid sources.
+
+Achievement: Wind and solar have reached grid parity in many markets, making them economically competitive.
+
+Impact: Drives increased adoption of renewables without requiring subsidies.
 
