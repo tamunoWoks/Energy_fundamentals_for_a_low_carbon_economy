@@ -97,3 +97,20 @@ Removing emissions could result from planting or preventing the removal of fores
 Cost parity is necessary to ensure the widespread adoption of low-carbon fuel sources, but it is not sufficient. Availability of land and resources is also required. There must be a strong business case for these technologies; otherwise, the required financial investments to rapidly develop and deploy them will not be made. The public and political will to make the transition a reality in a timely manner must also exist.
 
 There are many factors that will affect the speed of the energy transition. Many organizations have articulated various scenarios as to how quickly the energy transition may proceed. All recognize that changes to any of these factors listed below could have dramatic effects on the rate at which the transition occurs. This means that it is impossible to predict which scenarios are most likely, but it is still useful to understand possible future pathways to the carbon-neutral goal.
+
+The IEA examines three possible scenarios (World Energy Outlook 2024):
+1. **Scenario 1:** The first is the stated policies of governments around the world as they exist today, or the Stated Policies Scenario (STEPS).
+2. **Scenario 2:** The second assumes that governments will live up to the pledges that they have made to reduce emissions, or the Announced Pledge Scenario (APS). World governments have a poor record of meeting their commitments, and Canada has never met a single one!
+3. **Scenario 3:** The third IEA scenario is called the Net Zero Emissions by 2050 Scenario (NZE) and looks at the changes to energy systems that would be needed to meet the Paris Agreement goals.
+
+The IEA’s World Energy Outlook 2024 is a 398-page document that looks at all the factors affecting the potential speed of the transition in great detail. These include things like:
+- Cost of each energy source
+- Speed of deployment of electric vehicles
+- Expected increase in electricity demand
+- Development of new technologies
+- Changes in demand for traditional fossil fuels
+- Geopolitical risks like trade wars and actual wars
+- Effect of increasing natural disasters
+- Availability of skilled labour
+- Allocation of capital
+- Behaviours of governments and the general public
