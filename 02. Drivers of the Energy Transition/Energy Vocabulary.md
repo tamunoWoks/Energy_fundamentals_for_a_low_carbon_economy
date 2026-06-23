@@ -67,3 +67,10 @@ Energy supply risks from global conflicts, tariffs, or instability.
 Example: Germany’s gas costs quadrupled after losing Russian supply.
 
 Workplace Usage: Leaders often cite “geopolitical risk” when justifying domestic investments in energy security.
+
+### Price Volatility
+Sudden swings in energy prices due to market or supply disruptions.
+
+Example: Natural gas prices spiking in Europe after pipeline shutdowns.
+
+Workplace Usage: Traders and planners use volatility to explain uncertainty in budgeting and project forecasts
