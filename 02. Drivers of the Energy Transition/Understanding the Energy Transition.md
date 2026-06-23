@@ -85,3 +85,4 @@ Renewables have been steadily increasing their share of the energy mix, driven b
 > **Example:**  
 > Utility-scale solar power in the U.S. dropped from $0.25/kWh in 2010 to $0.04/kWh in 2020—a remarkable transformation that demonstrates how technological advancement can reshape entire industries.
 ---
+This phenomenon is known as **cost parity**, where renewable costs fall to or below those of fossil fuels. Understanding these economics requires examining the levelised cost of electricity, which encompasses both equipment or capital expenses (CapEx) and operating expenses (OpEx) for any particular energy source used to generate electricity.
