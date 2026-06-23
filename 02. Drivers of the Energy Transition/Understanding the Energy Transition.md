@@ -134,3 +134,10 @@ What makes McKinsey's report particularly valuable is its accessibility. At just
 ---
 > The key takeaway is that even the most optimistic realistic scenarios fall short of our climate targets, highlighting the enormous challenge ahead in balancing energy transformation with practical constraints.
 ---
+## Economic Costs and Investment Requirements
+
+Who will pay for the energy transition? Will it be companies? Maybe governments, which means us indirectly, through our tax dollars. Or will we pay directly as we go about our lives, buying things like gasoline, food, and new cell phones?  
+
+Consider buying a new refrigerator. Are you willing to pay extra for a fridge with a good “Energy Star” rating, knowing that you’ll save money (and help save the environment!) every month when you pay your electricity bill?
+
+The truth is likely that everyone will pay, but how the costs will be distributed remains to be seen. This is a very important question; however, it is rarely discussed.
