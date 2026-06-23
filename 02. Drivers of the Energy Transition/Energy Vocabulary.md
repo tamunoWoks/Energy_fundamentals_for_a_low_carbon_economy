@@ -60,3 +60,10 @@ CapEx = upfront investment. OpEx = ongoing operating costs.
 Example: Building a solar farm (CapEx) vs. maintaining panels (OpEx).
 
 Common Confusion: Non-finance staff may mix the terms, treating ongoing costs like CapEx in project discussions.
+
+### Geopolitical Risk
+Energy supply risks from global conflicts, tariffs, or instability.
+
+Example: Germany’s gas costs quadrupled after losing Russian supply.
+
+Workplace Usage: Leaders often cite “geopolitical risk” when justifying domestic investments in energy security.
