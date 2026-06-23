@@ -39,3 +39,10 @@ Market term implying eco-friendly energy.
 Example: Wind is greener than coal but still has manufacturing emissions.
 
 Workplace Usage: People use “green” casually in presentations or marketing, but in technical settings it’s better to say “low-carbon.”
+
+### Low-Carbon Energy
+Energy sources that emit far fewer GHGs than fossil fuels.
+
+Example: Nuclear has ~6–13 gCO₂e/kWh versus coal at 820–1074 gCO₂e/kWh.
+
+Related Term: Often used interchangeably with “renewables,” though not all low-carbon sources (like nuclear) are renewable. Some professionals argue nuclear could become effectively renewable if thorium replaces uranium, given thorium’s near-infinite supply.
