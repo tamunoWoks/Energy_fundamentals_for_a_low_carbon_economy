@@ -46,3 +46,10 @@ Energy sources that emit far fewer GHGs than fossil fuels.
 Example: Nuclear has ~6–13 gCO₂e/kWh versus coal at 820–1074 gCO₂e/kWh.
 
 Related Term: Often used interchangeably with “renewables,” though not all low-carbon sources (like nuclear) are renewable. Some professionals argue nuclear could become effectively renewable if thorium replaces uranium, given thorium’s near-infinite supply.
+
+### LCOE
+Average cost per unit of electricity, including capital and operating costs.
+
+Example: Utility solar LCOE dropped to $0.04/kWh in 2020.
+
+Workplace Usage: Used in boardrooms to compare project economics — “Wind’s LCOE is now at cost parity with gas.”
