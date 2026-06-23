@@ -25,3 +25,10 @@ Energy replenished naturally at a faster rate than consumed.
 Example: Wind turbines generating electricity from air movement.
 
 Common Confusion: Colleagues may assume renewable always means sustainable, but droughts or land impacts can limit supply. Some people include nuclear in this category. While uranium is finite, thorium could make nuclear effectively renewable because of its vast supply.
+
+### Clean Energy
+Misleading term suggesting energy has no environmental impact.
+
+Example: Solar is labeled “clean” despite emissions in panel manufacturing.
+
+Common Confusion: The term “clean coal” is often used in politics and marketing, even though coal is never truly clean.
