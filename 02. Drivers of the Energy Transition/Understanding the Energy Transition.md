@@ -155,3 +155,8 @@ We need to look at this in terms that we "normal people" can understand. It’s 
 This is a simplistic way to look at energy transition costs, but it gives us an idea of the increasing costs that result from more aggressive actions. Again, keep in mind that the costs of doing nothing are also increasing rapidly. And not only in dollars, but in the immense grief and trauma that people suffer when affected by fires, floods, etc. Not to mention the cost in human lives. **How do you measure that?!**
 
 These costs and investment requirements are truly astronomical! However, it's looking more and more like doing nothing to mitigate (reduce) the effects of climate change will be even more costly.
+
+### Conclusion
+The term energy transition refers to transforming our energy systems from traditional fossil fuels to low-carbon alternatives. It will have serious consequences for humanity and must be managed in a responsible way. All energy sources have some impact on the environment, as well as social impacts, so we have to be careful about using terms like "green energy" or "clean energy" since many people will be misled into thinking otherwise. Terminology becomes very important, even when using the term "renewable energy."
+
+The energy transition will take time. When we hear people say, “leave it in the ground,” referring to fossil fuels, this suggests that while their “climate change literacy” may be high, their "energy literacy" is low. Scenarios for the transition have been proposed by many, but many factors will affect the likelihood of these scenarios coming to pass. The costs and investment requirements associated with the transition are staggering; however, they must be compared to the very real costs of doing nothing.
