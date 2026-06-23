@@ -53,3 +53,10 @@ Average cost per unit of electricity, including capital and operating costs.
 Example: Utility solar LCOE dropped to $0.04/kWh in 2020.
 
 Workplace Usage: Used in boardrooms to compare project economics — “Wind’s LCOE is now at cost parity with gas.”
+
+### CapEx vs. OpEx
+CapEx = upfront investment. OpEx = ongoing operating costs.
+
+Example: Building a solar farm (CapEx) vs. maintaining panels (OpEx).
+
+Common Confusion: Non-finance staff may mix the terms, treating ongoing costs like CapEx in project discussions.
