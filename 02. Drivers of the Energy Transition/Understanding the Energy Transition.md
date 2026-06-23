@@ -86,3 +86,14 @@ Renewables have been steadily increasing their share of the energy mix, driven b
 > Utility-scale solar power in the U.S. dropped from $0.25/kWh in 2010 to $0.04/kWh in 2020—a remarkable transformation that demonstrates how technological advancement can reshape entire industries.
 ---
 This phenomenon is known as **cost parity**, where renewable costs fall to or below those of fossil fuels. Understanding these economics requires examining the levelised cost of electricity, which encompasses both equipment or capital expenses (CapEx) and operating expenses (OpEx) for any particular energy source used to generate electricity.
+
+### PARIS CLIMATE AGREEMENT
+The Paris Agreement set the goal of the world becoming net zero (or carbon neutral) by 2050 to avoid the worst impacts of climate change.
+
+Net zero means that human emissions of GHGs into the atmosphere are equal to human-caused reductions of GHGs from the atmosphere.
+
+Removing emissions could result from planting or preventing the removal of forests, or from technical innovations such as direct air capture (DAC), carbon capture, utilization and storage (CCUS), among others.
+
+Cost parity is necessary to ensure the widespread adoption of low-carbon fuel sources, but it is not sufficient. Availability of land and resources is also required. There must be a strong business case for these technologies; otherwise, the required financial investments to rapidly develop and deploy them will not be made. The public and political will to make the transition a reality in a timely manner must also exist.
+
+There are many factors that will affect the speed of the energy transition. Many organizations have articulated various scenarios as to how quickly the energy transition may proceed. All recognize that changes to any of these factors listed below could have dramatic effects on the rate at which the transition occurs. This means that it is impossible to predict which scenarios are most likely, but it is still useful to understand possible future pathways to the carbon-neutral goal.
