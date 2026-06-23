@@ -74,3 +74,10 @@ Sudden swings in energy prices due to market or supply disruptions.
 Example: Natural gas prices spiking in Europe after pipeline shutdowns.
 
 Workplace Usage: Traders and planners use volatility to explain uncertainty in budgeting and project forecasts
+
+### Energy Resilience
+The ability of systems to withstand and adapt to shocks.
+
+Example: Designing grids to handle outages from extreme weather.
+
+Related Term: Often discussed alongside “energy security,” but resilience focuses on system recovery and continuity.
