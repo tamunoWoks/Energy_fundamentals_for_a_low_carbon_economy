@@ -73,3 +73,15 @@ This might include wind, solar, hydroelectric (dams), geothermal, tidal power an
 > Also consider the mindset that “the sun will always shine, and the wind will always blow.” While this is true, changing weather patterns may result in changes to the resources available in a particular area, particularly with wind. Wind farms can not be moved, and changing wind patterns may reduce the amount of electricity that a particular farm can generate.
 ---
 This is not to say that these energy sources are not an important part of the energy transition, just that we need to be aware of the risks as well as the benefits.
+
+## Transition Timelines and Scenarios
+Energy transitions historically unfold over decades or centuries. The shift from biomass (wood) to coal took 140 years, from 1800 until coal reached 50% of the energy mix in 1940. Oil's rise was faster: it jumped from 19% to 40% of the energy mix between 1950 and 1980. Meanwhile, natural gas grew steadily from 7% in 1950 to nearly 20% by 2000.
+
+The uptake of renewable energy has been impressive, but it still has a long way to go. Renewables accounted for 6.6% of the energy mix at the turn of the century, and doubled to 13% by 2023. So the rate of increase is going up. It will have to go up much more quickly, though, if we are to meet the climate goals set in the Paris Agreement in 2015.
+
+Renewables have been steadily increasing their share of the energy mix, driven by growing concerns about climate change and **dramatic cost reductions**.
+
+---
+> **Example:**  
+> Utility-scale solar power in the U.S. dropped from $0.25/kWh in 2010 to $0.04/kWh in 2020—a remarkable transformation that demonstrates how technological advancement can reshape entire industries.
+---
