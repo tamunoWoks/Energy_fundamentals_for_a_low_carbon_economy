@@ -135,9 +135,23 @@ What makes McKinsey's report particularly valuable is its accessibility. At just
 > The key takeaway is that even the most optimistic realistic scenarios fall short of our climate targets, highlighting the enormous challenge ahead in balancing energy transformation with practical constraints.
 ---
 ## Economic Costs and Investment Requirements
-
 Who will pay for the energy transition? Will it be companies? Maybe governments, which means us indirectly, through our tax dollars. Or will we pay directly as we go about our lives, buying things like gasoline, food, and new cell phones?  
 
-Consider buying a new refrigerator. Are you willing to pay extra for a fridge with a good “Energy Star” rating, knowing that you’ll save money (and help save the environment!) every month when you pay your electricity bill?
+Consider buying a new refrigerator. Are you willing to pay extra for a fridge with a good “Energy Star” rating, knowing that you’ll save money (and help save the environment!) every month when you pay your electricity bill? The truth is likely that everyone will pay, but how the costs will be distributed remains to be seen. This is a very important question; however, it is rarely discussed.
 
-The truth is likely that everyone will pay, but how the costs will be distributed remains to be seen. This is a very important question; however, it is rarely discussed.
+**Think about Canada’s carbon tax** Most people complain about it, some very loudly! Who wants to pay more tax?! The point of the tax is to change behaviours, and it will if it becomes high enough. Here's where things get tricky. Most Canadians actually get back as much as they pay in carbon taxes, but hardly anyone knows this. The federal government has botched the messaging completely. They originally called the rebate the "Climate Action Incentive Payment". They've since renamed it the "Canada Carbon Rebate," which is better but still leaves many Canadians convinced the carbon tax is just another cash grab designed to empty their wallets.  
+
+**This illustrates how important government policy will be in distributing the costs of the energy transition**. Make no mistake: there will be costs. However, doing nothing also has costs. Extreme weather due to climate change is already having a profound effect on the insurance that we all pay for. As insurance companies pay out more for damages caused by fires, floods and hailstorms, our premiums for all kinds of insurance go up. In some cases, insurance is simply not available in some areas for some things because the insurance companies have deemed the risks to be too high to insure.  
+
+**How much will the energy transition cost?** Lots!! We’re talking about trillions of dollars! Per year! Estimates vary widely, but it could cost $3.5 trillion a year to reach net zero by 2050. Let’s look at the scenarios outlined in the previous topic from the IEA. Globally in 2024, $2 trillion was spent on low-carbon fuels and energy efficiency vs $1 trillion on fossil fuels.
+
+We need to look at this in terms that we "normal people" can understand. It’s hard to conceptualize what a trillion dollars even is!
+
+---
+> Consider that in 2024, for every dollar spent on fossil fuels, 2 dollars were spent on low-carbon fuels and improvements in energy efficiency. Let’s call this the **levelized cost** of the energy transition.
+>
+> Fast-forward to 2035 and consider what needs to be spent to meet each scenario. For the STEPS scenario (Stated policies), for every dollar spent on fossil fuels, 3$ must be spent on the energy transition. To meet the APS (Announced Pledges), it would be $7 spent on the transition for every dollar on fossil fuels. For the NZE (net zero) scenario, it would be $20 on the transition for every dollar on fossil fuels.
+---
+This is a simplistic way to look at energy transition costs, but it gives us an idea of the increasing costs that result from more aggressive actions. Again, keep in mind that the costs of doing nothing are also increasing rapidly. And not only in dollars, but in the immense grief and trauma that people suffer when affected by fires, floods, etc. Not to mention the cost in human lives. **How do you measure that?!**
+
+These costs and investment requirements are truly astronomical! However, it's looking more and more like doing nothing to mitigate (reduce) the effects of climate change will be even more costly.
