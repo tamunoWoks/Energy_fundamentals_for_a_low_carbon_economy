@@ -81,3 +81,10 @@ The ability of systems to withstand and adapt to shocks.
 Example: Designing grids to handle outages from extreme weather.
 
 Related Term: Often discussed alongside “energy security,” but resilience focuses on system recovery and continuity.
+
+### Stranded Assets
+Investments that lose value due to technological or policy shifts.
+
+Example: A coal plant shut down before paying back its construction costs.
+
+Workplace Usage: Finance teams warn that investing in fossil infrastructure risks creating stranded assets in 10–15 years.
