@@ -114,3 +114,23 @@ The IEA’s World Energy Outlook 2024 is a 398-page document that looks at all t
 - Availability of skilled labour
 - Allocation of capital
 - Behaviours of governments and the general public
+
+### McKinsey's Energy Transition Scenarios
+What happens when one of the world's top consulting firms takes a hard look at our energy transition? The results aren't pretty—but they're brutally honest.
+
+McKinsey & Company's "Global Energy Perspective 2024" cuts through the wishful thinking that dominates climate discussions. Instead of promising easy solutions, they tackle the messy reality: transforming our energy system while keeping the lights on, bills affordable, and supply chains secure.
+
+The verdict: We're not even close. Despite modelling three different pathways forward, McKinsey couldn't find a single scenario that hits the Paris Agreement's 1.5°C target. Not one.
+
+Here's what we're actually looking at:
+1. Best case ("Sustainable Transformation"): 1.8°C warming—missing the target by 20%
+2. Middle road ("Continued Momentum"): 2.2°C warming—nearly 50% over the limit
+3. Business as usual ("Slow Evolution"): 2.6°C warming—a climate disaster
+
+Those decimal points matter more than you might think. The difference between 1.5°C and 2.6°C isn't just statistics; it's the difference between manageable change and civilizational upheaval. 
+
+What makes McKinsey's report particularly valuable is its accessibility. At just 41 pages with compelling graphics, it offers a more digestible alternative to dense reports like those from the International Energy Agency. However, as with any scenario analysis—and many organizations conduct these projections—understanding the assumptions and scope behind each scenario is crucial before drawing comparisons or conclusions.
+
+---
+> The key takeaway is that even the most optimistic realistic scenarios fall short of our climate targets, highlighting the enormous challenge ahead in balancing energy transformation with practical constraints.
+---
