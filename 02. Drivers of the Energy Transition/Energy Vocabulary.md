@@ -32,3 +32,10 @@ Misleading term suggesting energy has no environmental impact.
 Example: Solar is labeled “clean” despite emissions in panel manufacturing.
 
 Common Confusion: The term “clean coal” is often used in politics and marketing, even though coal is never truly clean.
+
+### Green Energy
+Market term implying eco-friendly energy.
+
+Example: Wind is greener than coal but still has manufacturing emissions.
+
+Workplace Usage: People use “green” casually in presentations or marketing, but in technical settings it’s better to say “low-carbon.”
